@@ -1,0 +1,12 @@
+India/New Delhi
+China/Beijing
+France/Paris
+Argentina/Buenos Aires
+Egypt/Cairo
+india/mumbai
+russia/moscow
+Nigeria/Abuja
+Algeria/Algeirs
+Angola/luanda
+kenya/nairobi
+
